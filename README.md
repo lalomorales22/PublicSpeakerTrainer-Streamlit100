@@ -17,7 +17,7 @@ Public Speaking Trainer is a Streamlit-based application that uses AI to analyze
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/public-speaking-trainer.git
+   git clone https://github.com/lalomorales22/PublicSpeakerTrainer-Streamlit100.git
    cd public-speaking-trainer
    ```
 
